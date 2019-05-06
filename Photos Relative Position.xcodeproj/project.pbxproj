@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC4E305522782B54007D0E95 /* PhotoSupplier.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC4E305422782B54007D0E95 /* PhotoSupplier.swift */; };
 		FCB5DC0A2115EEA300CE219B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB5DC092115EEA300CE219B /* AppDelegate.swift */; };
 		FCB5DC0C2115EEA300CE219B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB5DC0B2115EEA300CE219B /* ViewController.swift */; };
 		FCB5DC0F2115EEA300CE219B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCB5DC0D2115EEA300CE219B /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC4E305422782B54007D0E95 /* PhotoSupplier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSupplier.swift; sourceTree = "<group>"; };
 		FCB5DC062115EEA300CE219B /* Photos Relative Position.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Photos Relative Position.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCB5DC092115EEA300CE219B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FCB5DC0B2115EEA300CE219B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				FCB5DC092115EEA300CE219B /* AppDelegate.swift */,
+				FC4E305422782B54007D0E95 /* PhotoSupplier.swift */,
 				FCB5DC0B2115EEA300CE219B /* ViewController.swift */,
 				FCB5DC0D2115EEA300CE219B /* Main.storyboard */,
 				FCB5DC102115EEA700CE219B /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			files = (
 				FCB5DC0C2115EEA300CE219B /* ViewController.swift in Sources */,
 				FCB5DC0A2115EEA300CE219B /* AppDelegate.swift in Sources */,
+				FC4E305522782B54007D0E95 /* PhotoSupplier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
